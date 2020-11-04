@@ -31,6 +31,13 @@ The app is responsible setting up the counter in minutes or in seconds for the u
 
 Available for Android and iOS.
 <br/>
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/51189721/98170184-513c4c80-1ecc-11eb-9164-cd26f8b02695.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/51189721/98170194-53061000-1ecc-11eb-8b6d-7f3c29d41d79.gif)
+ </br>
+
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/51189721/98170198-54373d00-1ecc-11eb-86a2-391cf1ce6314.gif)
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/51189721/98170200-55686a00-1ecc-11eb-9785-2eb876956ca4.gif)
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/51189721/98165955-809b8b00-1ec5-11eb-8ab9-d7c052223b5f.gif)
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/51189721/98165823-4c27cf00-1ec5-11eb-9b88-59a5be61ce7b.gif)
