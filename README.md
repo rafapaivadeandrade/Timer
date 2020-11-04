@@ -38,14 +38,6 @@ Available for Android and iOS.
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/51189721/98170198-54373d00-1ecc-11eb-86a2-391cf1ce6314.gif)
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/51189721/98170200-55686a00-1ecc-11eb-9785-2eb876956ca4.gif)
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/51189721/98165955-809b8b00-1ec5-11eb-8ab9-d7c052223b5f.gif)
-
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/51189721/98165823-4c27cf00-1ec5-11eb-9b88-59a5be61ce7b.gif)
- </br>
- 
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/51189721/98165946-7da09a80-1ec5-11eb-8660-9728ea8930f2.gif)
-
-![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/51189721/98166175-c8221700-1ec5-11eb-9582-eb84a310ea51.gif)
  
 </div>
 
